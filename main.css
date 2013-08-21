@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background: url('http://www.wallibs.com/gudang/pattern-white-sand-background-patterns-pattern-wallpapers.jpg') no-repeat 0 0;
+	text-align: center;
+}
+
+.title{
+	margin-bottom: 30px;
+}
+
+#hot{
+	color:#FF8000;
+	font-size: 200%;
+}
+
+#or{
+	font-size:150%;
+}
+
+#cold{
+	color:#00F;
+	font-size: 200%;
+}
+
+h1{
+    display:inline-block;
+    margin:20px auto 0;
+    padding: 30px; 
+    color:black;
+ }
+
+ p{
+ 	font-size: 150%;
+ 	margin-top: 5px;
+ }
+
+ .guesses{
+ 	height: 30px;
+ 	margin:10px;
+ 	font-size: 10px;
+ }
+
+ .guesses p{
+	display: inline;
+ }
+
+ .Guess_Box{
+ 	width: 250px;
+ 	height: 220px;
+ 	border-radius: 8px;
+ 	margin: 0 auto;
+ }
+
+ #guess{
+ 	width:80%;
+ 	height: 20px;
+ }
+
+ input{
+ 	text-align: center;
+ }
+
+ #submit{
+ 	display: inline-block;
+ 	margin: 5px auto 0;
+ 	width: 95px;
+ 	height: 40px;
+ 	color: white;
+ 	background: green;
+ 	border-radius: 5px;
+ 	font-size: 20px;
+ }
+
+ #newgame{
+ 	display: inline-block;
+	margin: 5px auto 0;
+ 	width: 95px;
+ 	height: 40px;
+ 	color: black;
+ 	background: #0CC;
+ 	border-radius: 5px;
+ 	font-size: 12px;
+ }
+
+#info{
+	height: 40px;
+	margin: 15px;
+	border-radius: 10px;
+}
